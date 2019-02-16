@@ -1,6 +1,7 @@
 from .base import *
 
 DEBUG = False
+ALLOWED_HOSTS = ['django-micro-facebook-clone.herokuapp.com']
 
 DATABASES = {
     'default': {
