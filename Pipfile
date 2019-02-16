@@ -22,6 +22,8 @@ six = "==1.12.0"
 wrapt = "==1.11.1"
 Django = "==2.1.7"
 psycopg2 = "*"
+gunicorn = "*"
+django-heroku = "*"
 
 [requires]
 python_version = "3.7"
